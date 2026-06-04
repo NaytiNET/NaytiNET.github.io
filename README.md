@@ -1,0 +1,2 @@
+# NaytiNET.github.io
+admob
